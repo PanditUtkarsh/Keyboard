@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  background: darkorange;
+  font-family: monospace;
+}
+
+#heading{
+  color: white;
+  text-align: center;
+  font-size: xx-large;
+  font-family: monospace;
+}
+.input
+{
+  /* height: 94vh; */
+display: flex;
+justify-content: center;
+margin-top: 36vh;
+}
+#input
+{
+  width: 25vw;
+height: 8vh;
+font-size: 6vh;
+outline: none;
+box-shadow: 0px 0px 87px 2px black;
+border-radius: 7px;
+
+}
+#text
+{
+  text-align: center;
+  color: darkgray;
+  font-size: 3.6vh;
+}
